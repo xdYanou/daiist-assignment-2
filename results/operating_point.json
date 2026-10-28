@@ -1,0 +1,6 @@
+{
+  "threshold": 0.3293,
+  "cost_fn": 150000.0,
+  "cost_fp": 50000.0,
+  "base_rate": 0.15
+}
